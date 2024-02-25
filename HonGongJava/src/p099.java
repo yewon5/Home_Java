@@ -1,7 +1,7 @@
 /*
  *import java.util.Scanner;
-public class p099 {
 
+public class p099 {
 	public static void main(String[] args) {
 		// TODO 혼공자 확인 문제 2번
 		Scanner sc = new Scanner(System.in);
@@ -20,8 +20,8 @@ public class p099 {
 */
 
 import java.util.Scanner;
-public class p099 {
 
+public class p099 {
 	public static void main(String[] args) {
 		// TODO 혼공자 확인 문제 3번
 		Scanner sc = new Scanner(System.in);
