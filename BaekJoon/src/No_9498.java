@@ -5,15 +5,15 @@ public class No_9498 {
 		// TODO 9498번 시험 성적
         Scanner sc = new Scanner(System.in);
         
-        int a = sc.nextInt(); 
+        int score = sc.nextInt(); 
 
-        if(a >= 90) {
+        if(score >= 90) {
             System.out.println("A");
-        } else if(a >= 80) {
+        } else if(score >= 80) {
             System.out.println("B");
-        } else if(a >= 70) {
+        } else if(score >= 70) {
             System.out.println("C");
-        } else if(a >= 60) {
+        } else if(score >= 60) {
             System.out.println("D");
         } else {
             System.out.println("F");
