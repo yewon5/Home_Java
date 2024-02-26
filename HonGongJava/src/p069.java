@@ -8,6 +8,6 @@ public class p069 {
 			System.out.println("중단합니다.");
 		}else {
 			System.out.println("시작합니다.");
-		}
+		}//중단합니다.
 	}
 }
