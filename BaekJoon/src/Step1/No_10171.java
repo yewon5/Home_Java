@@ -1,3 +1,4 @@
+package Step1;
 public class No_10171 {
 	public static void main(String[] args) {
 		// TODO 10171번 고양이

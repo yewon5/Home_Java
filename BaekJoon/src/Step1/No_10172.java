@@ -1,3 +1,4 @@
+package Step1;
 public class No_10172 {
 	public static void main(String[] args) {
 		// TODO 10172번 개

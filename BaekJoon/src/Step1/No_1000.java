@@ -1,3 +1,4 @@
+package Step1;
 import java.util.Scanner; //Scanner 사용자 입력을 받기 위해서
 
 public class No_1000 {
